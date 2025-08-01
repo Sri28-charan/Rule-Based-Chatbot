@@ -11,7 +11,7 @@ It uses if-else logic to respond to user inputs and has a **GUI chat interface.
 
 
 📸 Screenshot
-![Chatbot UI](screenshots/chatbot_ui.png)
+![Chatbot UI](chatbot_ui.png)
 
 
  🛠 Tech Stack
